@@ -4,7 +4,7 @@
 
 A small website for listening to Minecraft Bedrock Edition sounds, so you can find out exactly which sound file to replace in your own resource pack.
 
-**Website:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Website:** https://a-sdk.github.io/bedrock-sound-preview/
 
 > Vanilla Bedrock sounds are stored as `.fsb` files, which normal audio players (especially on phones) can't open. This site offers short MP3 previews of them, organized in the same folders as the game.
 
@@ -56,7 +56,7 @@ For the official vanilla resource files, see Mojang's [bedrock-samples](https://
 
 Situs kecil untuk mendengarkan suara Minecraft Bedrock Edition, supaya kamu tahu persis file suara mana yang ingin diganti di resource pack buatanmu sendiri.
 
-**Situs:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Situs:** https://a-sdk.github.io/bedrock-sound-preview/
 
 > Suara bawaan Bedrock disimpan dalam file `.fsb` yang tidak bisa dibuka pemutar audio biasa (terutama di HP). Situs ini menyediakan pratinjau MP3 singkat dengan susunan folder yang sama seperti di dalam game.
 
